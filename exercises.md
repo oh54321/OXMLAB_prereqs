@@ -29,7 +29,7 @@ We will be using [Visual Studio Code](https://code.visualstudio.com/) as the off
 
 - You can view Markdown files in VS Code by right clicking on the file in the Explorer pane and selecting "Open Preview".
 - Enable word wrap in VS Code using Alt+Z or View -> Word Wrap.
-- You can have a Jupyter-like notebook experience within a regular `.py` file by using the special comment `# %%` to delimit notebook cells. VS Code will recognize these and give you the option to run cells (Shift-Enter by default on my machine) or debug cells individually.
+- You can have a Jupyter-like notebook experience within a regular `.py` file by using the special comment `# %%` to delimit notebook cells. VS Code will recognize these and give you the option to run cells (Shift-Enter by default on my machine) or debug cells individually. Note that the first time you do this, VSCode will prompt you to install an extension, which you should install.
 
 To set up VSCode, follow the installation instructions, and install the following extensions: Python Extension Pack, Markdown Preview Mermaid Support, and Remote-SSH.
 You install extensions by clicking on a side tab that looks like 3 squares. 
