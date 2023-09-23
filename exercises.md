@@ -19,7 +19,7 @@ Follow the instructions at [https://pytorch.org](https://pytorch.org/), using th
 
 ### Installing `einops`
 
-`pip install einops` at the command line should be all you need. 
+In VSCode, go to Terminal > New Terminal, or use control + \`, to open a new terminal. Then type the code `pip install einops`. This should allow you to install einops.
 
 ### Visual Studio Code
 
