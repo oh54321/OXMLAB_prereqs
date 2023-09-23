@@ -32,6 +32,8 @@ We will be using [Visual Studio Code](https://code.visualstudio.com/) as the off
 To set up VSCode, follow the installation instructions, and install the following extensions: Python Extension Pack, Markdown Preview Mermaid Support, and Remote-SSH.
 You install extensions by clicking on a side tab that looks like 3 squares. 
 
+When you install Python Extension Pack, you will be asked to choose a Python Interpreter (it will look like an error). Select the interpreter with "/miniconda3/" in its path.
+
 ## Workflow
 
 - The most basic thing you can do is copy the exercises into a new `.py` file and run the file as a normal script. Wherever you see a `pass` statement, this is where you write your code so that the function behaves as described and the assertions pass.
