@@ -9,6 +9,8 @@ These exercises will prepare you for actual implementation challenges that will 
 
 If you don't already have it, install [git](https://git-scm.com/).
 
+To check if it's installed correctly, or if you already have git installed: restart VSCode, and open a new window. If you see an option "Clone Git Repository" then git was installed correctly, otherwise it wasn't. 
+
 ### Installing Anaconda
 
 To set up your machine, the simplest way is to install [Miniconda](https://docs.conda.io/en/latest/miniconda.html). NOTE: Make sure to check off "Add Miniconda3 to my PATH environment variable" when installing miniconda3. 
