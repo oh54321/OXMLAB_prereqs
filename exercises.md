@@ -9,7 +9,7 @@ These exercises will prepare you for actual implementation challenges that will 
 
 If you don't already have it, install [git](https://git-scm.com/).
 
-To check if it's installed correctly, or if you already have git installed: restart VSCode, and open a new window. If you see an option "Clone Git Repository" then git was installed correctly, otherwise it wasn't. 
+To check if it's installed correctly, or if you already have git installed: restart VSCode, and open a new window. If you see an option "Clone Git Repository" then git was installed correctly, otherwise it wasn't. If you haven't installed VSCode, follow the instructions up to there and then check.
 
 ### Installing Anaconda
 
